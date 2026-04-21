@@ -128,7 +128,7 @@ export default function ParksResults({ onBack }) {
           Ranked by major parks with open green space
         </p>
         <p className="text-sm text-gray-500 leading-relaxed mb-3">
-          We ranked wards by access to parks with open green spaces — places with lawns
+          We ranked wards by access to parks with open green spaces. This includes places with lawns
           where you can have a picnic, walk around, or just relax in nature.
         </p>
         <p className="text-xs text-gray-400">

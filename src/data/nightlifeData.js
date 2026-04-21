@@ -11,7 +11,7 @@ export const tokyoWardsNightlifeData = [
     wikiTitle: '歌舞伎町',
     imageUrl: 'https://images.pond5.com/godzilla-road-night-kabukicho-shinjuku-footage-264042554_iconl.jpeg',
     description:
-      'Shinjuku is home to Kabukicho — the largest entertainment district in Asia, a relentless grid of neon signs, hostess bars, izakayas, karaoke towers, and clubs that runs well past sunrise. Golden Gai is perhaps Tokyo\'s most atmospheric bar neighborhood: around 200 tiny bars packed into six narrow alleys, each seating no more than a handful of people, each with its own obsessively curated aesthetic. Ni-chome, the compact LGBTQ+ district tucked behind the main entertainment zone, contains one of the world\'s highest concentrations of queer bars per square metre — an institution that has made Shinjuku a pilgrimage for visitors from across the globe. The ward\'s diversity of nightlife formats is unmatched: a standing ramen bar one night, a cocktail lounge on the 40th floor the next. No other ward in Tokyo offers a denser or more varied night out.',
+      'Shinjuku is home to Kabukicho , the largest entertainment district in Asia, a relentless grid of neon signs, hostess bars, izakayas, karaoke towers, and clubs that runs well past sunrise. Golden Gai is perhaps Tokyo\'s most atmospheric bar neighborhood: around 200 tiny bars packed into six narrow alleys, each seating no more than a handful of people, each with its own obsessively curated aesthetic. Ni-chome, the compact LGBTQ+ district tucked behind the main entertainment zone, contains one of the world\'s highest concentrations of queer bars per square metre , an institution that has made Shinjuku a pilgrimage for visitors from across the globe. The ward\'s diversity of nightlife formats is unmatched: a standing ramen bar one night, a cocktail lounge on the 40th floor the next. No other ward in Tokyo offers a denser or more varied night out.',
     lat: 35.6938,
     lng: 139.7035,
   },
@@ -43,7 +43,7 @@ export const tokyoWardsNightlifeData = [
     wikiTitle: '六本木',
     imageUrl: 'https://static.gltjp.com/glt/data/article/21000/20571/20260326_063230_01c31f34_w1920.webp',
     description:
-      'Minato\'s nightlife is defined by Roppongi — a district synonymous internationally with Tokyo after dark, home to some of the city\'s most famous clubs, rooftop bars, and a dense ecosystem of international-facing venues. The adjacent neighborhoods of Nishi-Azabu and Azabu-Juban offer a more restrained alternative, where underground cocktail bars and intimate jazz lounges serve Minato\'s wealthy residential community well into the early hours. The ward also contains pockets of discreet late-night dining in Hiroo and Moto-Azabu, beloved by diplomats, executives, and those who prefer their evenings without the Kabukicho crush. Roppongi\'s reputation for excess is well-earned but incomplete — Minato rewards those who venture off the main crossing. The ward\'s nightlife runs more expensive and international than Shinjuku\'s, a clear reflection of its character.',
+      'Minato\'s nightlife is defined by Roppongi , a district synonymous internationally with Tokyo after dark, home to some of the city\'s most famous clubs, rooftop bars, and a dense ecosystem of international-facing venues. The adjacent neighborhoods of Nishi-Azabu and Azabu-Juban offer a more restrained alternative, where underground cocktail bars and intimate jazz lounges serve Minato\'s wealthy residential community well into the early hours. The ward also contains pockets of discreet late-night dining in Hiroo and Moto-Azabu, beloved by diplomats, executives, and those who prefer their evenings without the Kabukicho crush. Roppongi\'s reputation for excess is well-earned but incomplete , Minato rewards those who venture off the main crossing. The ward\'s nightlife runs more expensive and international than Shinjuku\'s, a clear reflection of its character.',
     lat: 35.6581,
     lng: 139.7514,
   },
@@ -59,7 +59,7 @@ export const tokyoWardsNightlifeData = [
     wikiTitle: '銀座',
     imageUrl: 'https://tokyobling.wordpress.com/wp-content/uploads/2012/03/ginzabynight_1953.jpg',
     description:
-      'Chuo may not be Tokyo\'s first nightlife association, but Ginza — the ward\'s most famous district — harbors one of the city\'s most concentrated and consistently high-caliber after-dark cultures. Hundreds of intimate cocktail bars, sake specialists, and high-end establishments line the side streets off Chuo-dori, operating at a pitch that is simultaneously exclusive and deeply welcoming to those in the know. The Tsukiji and Ningyocho neighborhoods add a more accessible dimension, with izakayas and local bars that have served the ward\'s working heritage for generations. Late-night dining in Ginza is exceptional: sushi counters, tempura bars, and omakase restaurants that stay open past midnight cater to a clientele for whom the evening only begins after 10pm. Chuo\'s nightlife is quieter than Shinjuku\'s, but for cocktails and fine dining late into the night, it remains one of the city\'s most rewarding destinations.',
+      'Chuo may not be Tokyo\'s first nightlife association, but Ginza , the ward\'s most famous district , harbors one of the city\'s most concentrated and consistently high-caliber after-dark cultures. Hundreds of intimate cocktail bars, sake specialists, and high-end establishments line the side streets off Chuo-dori, operating at a pitch that is simultaneously exclusive and deeply welcoming to those in the know. The Tsukiji and Ningyocho neighborhoods add a more accessible dimension, with izakayas and local bars that have served the ward\'s working heritage for generations. Late-night dining in Ginza is exceptional: sushi counters, tempura bars, and omakase restaurants that stay open past midnight cater to a clientele for whom the evening only begins after 10pm. Chuo\'s nightlife is quieter than Shinjuku\'s, but for cocktails and fine dining late into the night, it remains one of the city\'s most rewarding destinations.',
     lat: 35.6704,
     lng: 139.7730,
   },
@@ -75,7 +75,7 @@ export const tokyoWardsNightlifeData = [
     wikiTitle: '浅草',
     imageUrl: 'https://www.gotokyo.org/shared/site_gotokyo/images/destination/northern-tokyo/ueno/sub_004.webp',
     description:
-      'Taito\'s nightlife is rooted in the izakaya culture of old Tokyo — unpretentious, communal, and deeply atmospheric in a way that no other ward quite replicates. Hoppy Street in Asakusa is one of the most convivial drinking destinations in the city: a narrow lane where salarymen, tourists, and locals of all ages share outdoor benches over endless plates of offal stew and plastic cups of hoppy, a low-alcohol malt drink that has defined the street for decades. The Ueno area adds a grittier dimension — a more underground bar scene running behind the station through the Ameyoko market alleys that stays busy until the early hours. Taito lacks the clubs and rooftop bars of Shibuya and Roppongi, but for an evening of honest, cheap, loud drinking in surroundings that feel unchanged since the 1970s, it has no equal. This is Tokyo nightlife at its most genuine.',
+      'Taito\'s nightlife is rooted in the izakaya culture of old Tokyo , unpretentious, communal, and deeply atmospheric in a way that no other ward quite replicates. Hoppy Street in Asakusa is one of the most convivial drinking destinations in the city: a narrow lane where salarymen, tourists, and locals of all ages share outdoor benches over endless plates of offal stew and plastic cups of hoppy, a low-alcohol malt drink that has defined the street for decades. The Ueno area adds a grittier dimension , a more underground bar scene running behind the station through the Ameyoko market alleys that stays busy until the early hours. Taito lacks the clubs and rooftop bars of Shibuya and Roppongi, but for an evening of honest, cheap, loud drinking in surroundings that feel unchanged since the 1970s, it has no equal. This is Tokyo nightlife at its most genuine.',
     lat: 35.7126,
     lng: 139.7850,
   },
@@ -90,7 +90,7 @@ export const tokyoWardsNightlifeData = [
     featuredVenues: ['Marunouchi', 'Akihabara', 'Hibiya'],
     wikiTitle: '秋葉原',
     description:
-      'Chiyoda\'s nightlife is largely a business-hours affair — Marunouchi and Hibiya after dark fill with salarymen at expense-account izakayas and whisky bars before the last train. Akihabara adds an unusual dimension: electronics floors close but maid cafes, game bars, and themed venues carry on into the evening, attracting a dedicated subculture of visitors. The ward\'s nightlife is real but geographically dispersed.',
+      'Chiyoda\'s nightlife is largely a business-hours affair , Marunouchi and Hibiya after dark fill with salarymen at expense-account izakayas and whisky bars before the last train. Akihabara adds an unusual dimension: electronics floors close but maid cafes, game bars, and themed venues carry on into the evening, attracting a dedicated subculture of visitors. The ward\'s nightlife is real but geographically dispersed.',
     lat: 35.6938,
     lng: 139.7535,
   },
@@ -105,7 +105,7 @@ export const tokyoWardsNightlifeData = [
     featuredVenues: ['Nakano Broadway area', 'Sun Mall arcade'],
     wikiTitle: '中野区',
     description:
-      'Nakano\'s nightlife centers on the covered shopping arcade and its surrounding side streets, where affordable izakayas and dive bars serve the ward\'s young, creative, and cash-conscious community. It lacks the scale of Shinjuku — just minutes away by train — but has a loyal local drinking scene and an indie music venue presence that makes it a genuine neighborhood night out for those who know it.',
+      'Nakano\'s nightlife centers on the covered shopping arcade and its surrounding side streets, where affordable izakayas and dive bars serve the ward\'s young, creative, and cash-conscious community. It lacks the scale of Shinjuku , just minutes away by train , but has a loyal local drinking scene and an indie music venue presence that makes it a genuine neighborhood night out for those who know it.',
     lat: 35.7073,
     lng: 139.6659,
   },
@@ -135,7 +135,7 @@ export const tokyoWardsNightlifeData = [
     featuredVenues: ['Sangenjaya', 'Shimokitazawa'],
     wikiTitle: '三軒茶屋',
     description:
-      'Setagaya is a residential ward at heart, but its Sangenjaya and Shimokitazawa neighborhoods are two of Tokyo\'s most beloved bohemian districts — dense with live music venues, bars, vintage shops, and izakayas that attract a younger, creative crowd from across the city. For a ward better known for its parks, Setagaya\'s nightlife credentials are a genuine and pleasant surprise.',
+      'Setagaya is a residential ward at heart, but its Sangenjaya and Shimokitazawa neighborhoods are two of Tokyo\'s most beloved bohemian districts , dense with live music venues, bars, vintage shops, and izakayas that attract a younger, creative crowd from across the city. For a ward better known for its parks, Setagaya\'s nightlife credentials are a genuine and pleasant surprise.',
     lat: 35.6462,
     lng: 139.6530,
   },
@@ -165,7 +165,7 @@ export const tokyoWardsNightlifeData = [
     featuredVenues: ['Nerima Station area', 'Hikarigaoka'],
     wikiTitle: '練馬区',
     description:
-      'Nerima\'s nightlife is thin — primarily local izakayas and karaoke boxes serving commuters on the Seibu and Toei lines heading home after Shinjuku. The ward is best enjoyed during the day, in its parks.',
+      'Nerima\'s nightlife is thin , primarily local izakayas and karaoke boxes serving commuters on the Seibu and Toei lines heading home after Shinjuku. The ward is best enjoyed during the day, in its parks.',
     lat: 35.7357,
     lng: 139.6523,
   },
@@ -180,7 +180,7 @@ export const tokyoWardsNightlifeData = [
     featuredVenues: ['Nishi-Kasai', 'Koiwa'],
     wikiTitle: '江戸川区',
     description:
-      'Edogawa is primarily a family and parks ward with minimal nightlife infrastructure. What exists is hyperlocal — neighborhood izakayas and karaoke boxes serving residents rather than visitors. Edogawa\'s strengths lie firmly elsewhere.',
+      'Edogawa is primarily a family and parks ward with minimal nightlife infrastructure. What exists is hyperlocal , neighborhood izakayas and karaoke boxes serving residents rather than visitors. Edogawa\'s strengths lie firmly elsewhere.',
     lat: 35.7069,
     lng: 139.8679,
   },

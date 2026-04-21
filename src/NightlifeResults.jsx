@@ -135,7 +135,7 @@ export default function NightlifeResults({ onBack }) {
           <h1 className="text-xl font-bold" style={{ color: DARK }}>Top wards for nightlife</h1>
         </div>
         <p className="text-sm font-semibold mb-3" style={{ color: PRIMARY }}>
-          Ranked by bars, clubs, late-night dining & foot traffic
+          Ranked by bars, clubs, late-night dining & foot traffic after 9pm
         </p>
         <p className="text-sm text-gray-500 leading-relaxed mb-3">
           We scored wards on the density of izakayas and bars, the number of nightclubs,

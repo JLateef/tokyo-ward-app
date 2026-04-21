@@ -19,6 +19,7 @@ const DARK    = '#B71C1C';
 export default function TempleWardDetail({ ward, rank, onBack }) {
   const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
+  const [zoomed, setZoomed] = useState(false);
 
   useEffect(() => {
     if (ward.imageUrl) return;
@@ -59,18 +60,34 @@ export default function TempleWardDetail({ ward, rank, onBack }) {
           style={{ backgroundColor: LIGHT }}
         >
           {showImage ? (
-            <img
-              src={imageUrl}
-              alt={ward.featuredSites[0]}
-              className="w-full h-full object-cover"
-              onError={() => setImgFailed(true)}
-            />
+            <button className="w-full h-full" onClick={() => setZoomed(true)}>
+              <img
+                src={imageUrl}
+                alt={ward.featuredSites[0]}
+                className="w-full h-full object-cover"
+                onError={() => setImgFailed(true)}
+              />
+            </button>
           ) : (
             <div
               className="w-full h-full flex items-center justify-center"
               style={{ background: `linear-gradient(135deg, ${PRIMARY} 0%, ${DARK} 100%)` }}
             >
               {TEMPLE_ICON}
+            </div>
+          )}
+          {zoomed && (
+            <div
+              className="fixed inset-0 z-50 flex items-center justify-center"
+              style={{ backgroundColor: 'rgba(0,0,0,0.85)', animation: 'fadeIn 0.2s ease' }}
+              onClick={() => setZoomed(false)}
+            >
+              <img
+                src={imageUrl}
+                alt={ward.featuredSites[0]}
+                className="max-w-full max-h-full object-contain rounded-xl"
+                style={{ maxWidth: '95vw', maxHeight: '90vh' }}
+              />
             </div>
           )}
         </div>

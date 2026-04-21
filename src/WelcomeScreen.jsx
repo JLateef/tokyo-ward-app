@@ -21,21 +21,21 @@ export default function WelcomeScreen({ onEnter }) {
           className="fade-up text-base text-gray-400 mb-2 tracking-wide"
           style={{ animationDelay: '0.9s' }}
         >
-          Welcome to the
+          Welcome to 
         </p>
 
         <h1
           className="fade-up text-4xl font-black text-black leading-tight"
           style={{ animationDelay: '1.5s' }}
         >
-          Tokyo Ward App
+          Tokyo Ward Finder
         </h1>
 
         <p
           className="fade-up text-sm text-gray-400 mt-5 leading-relaxed max-w-xs"
           style={{ animationDelay: '2.2s' }}
         >
-          Explore Tokyo's 23 wards — ranked by parks, museums, temples, and nightlife.
+          Explore Tokyo's 23 wards, ranked by parks, museums, temples, and nightlife.
         </p>
       </div>
 

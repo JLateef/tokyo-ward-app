@@ -137,9 +137,9 @@ export default function MuseumsResults({ onBack }) {
           Ranked by total museums including small collections
         </p>
         <p className="text-sm text-gray-500 leading-relaxed mb-3">
-          We scored wards on the breadth and caliber of their museum offering — every institution
-          counted, from major national collections to small specialty galleries and neighborhood
-          history museums.
+          We scored wards on the breadth and caliber of their museums. We counted every institution,
+          from major national collections to small specialty galleries and historical neighborhood
+          museums.
         </p>
         <p className="text-xs text-gray-400">
           Source: Japan Museum Association + Tokyo Metropolitan Government + curated verification

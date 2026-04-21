@@ -140,8 +140,8 @@ export default function TemplesResults({ onBack }) {
           Ranked by sacred site density and heritage significance
         </p>
         <p className="text-sm text-gray-500 leading-relaxed mb-3">
-          We scored wards on the total number of temples and shrines — including small
-          neighborhood sites — weighted by major landmark status and national heritage
+          We scored wards on the total number of temples and shrines, including small
+          neighborhood sites, weighted by major landmark status and national heritage
           designations.
         </p>
         <p className="text-xs text-gray-400">
