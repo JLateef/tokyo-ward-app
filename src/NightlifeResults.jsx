@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { tokyoWardsNightlifeData } from './data/nightlifeData';
 import NightlifeWardDetail from './NightlifeWardDetail';
+import { distanceToCenter } from './utils/distance';
 
 const PRIMARY = '#F57C00';
 const LIGHT   = '#FFF3E0';
@@ -51,6 +52,9 @@ function NightlifeCard({ ward, rank, onClick }) {
 
       <div className="mt-3 ml-11 text-xs text-gray-500">
         {ward.barsIzakayas.toLocaleString()} bars & izakayas · {ward.nightclubs} clubs
+      </div>
+      <div className="mt-1 ml-11 text-xs text-gray-400">
+        {distanceToCenter(ward.lat, ward.lng)}
       </div>
 
       <div className="mt-2 ml-11 flex flex-wrap gap-1.5">

@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { tokyoWardsTempleData } from './data/templesData';
 import TempleWardDetail from './TempleWardDetail';
+import { distanceToCenter } from './utils/distance';
 
 const PRIMARY = '#E53935';
 const LIGHT   = '#FDE8E8';
@@ -53,6 +54,9 @@ function TempleCard({ ward, rank, onClick }) {
 
       <div className="mt-3 ml-11 text-xs text-gray-500">
         {ward.totalSites} temples & shrines · {ward.majorSites} major sites
+      </div>
+      <div className="mt-1 ml-11 text-xs text-gray-400">
+        {distanceToCenter(ward.lat, ward.lng)}
       </div>
 
       <div className="mt-2 ml-11 flex flex-wrap gap-1.5">

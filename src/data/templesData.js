@@ -10,7 +10,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '浅草寺',
     imageUrl: 'https://thetruejapan.com/wp-content/uploads/2017/10/Sensoji-Temple-Crowds-of-People.jpg',
     description:
-      'Taito is Japan\'s undisputed capital of sacred sites, home to a density of temples and shrines that no other ward in Tokyo , or perhaps any city in the country , can match. Senso-ji, founded in 628 AD, is Tokyo\'s oldest and most visited temple, a thunderous place of incense smoke and pilgrimage that draws over 30 million visitors a year into the narrow alleys of Asakusa. The broader ward forms the heart of old Edo\'s temple belt: the Yanaka neighborhood alone packs dozens of small Buddhist temples along its cemetery lanes, many dating back three or more centuries. Kaneiji in Ueno , once the family temple of the Tokugawa shoguns , anchors the ward\'s Buddhist importance alongside Ueno Tosho-gu\'s blazing gold shrine building. For pilgrims, historians, or those who want to understand what Edo looked and felt like, Taito offers a depth of sacred architecture found nowhere else in the metropolitan area.',
+      'Taito is Japan\'s undisputed capital of sacred sites, home to a density of temples and shrines that no other ward in Tokyo (dare we say, the country even!) can match. Senso-ji, founded in 628 AD, is Tokyo\'s oldest and most visited temple, a thunderous place of incense smoke and pilgrimage that draws over 30 million visitors a year into the narrow alleys of Asakusa. The broader ward forms the heart of old Edo\'s temple belt: the Yanaka neighborhood alone packs dozens of small Buddhist temples along its cemetery lanes, many dating back three or more centuries. Kaneiji in Ueno, once the family temple of the Tokugawa shoguns, anchors the ward\'s Buddhist importance alongside Ueno Tosho-gu\'s blazing gold shrine building. For pilgrims, historians, or those who want to understand what Edo looked and felt like, Taito offers a depth of sacred architecture found nowhere else in the metropolitan area.',
     lat: 35.7126,
     lng: 139.7850,
   },
@@ -25,7 +25,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '根津神社',
     imageUrl: 'https://en.japantravel.com/photo/poi-179-230606/1200x630/tokyo-nezu-shrine-230606.jpg',
     description:
-      'Bunkyo is a ward of quiet neighborhoods and understated cultural depth, home to some of Tokyo\'s most beloved and historically significant sacred sites. Nezu Shrine , one of Tokyo\'s oldest, predating the Edo period , is famous for its tunnel of hundreds of small torii gates and the spectacular azalea garden that draws crowds each spring. Yushima Tenjin (Yushima Tenmangu) is one of the city\'s most important academic shrines, dedicated to the god of learning and perpetually ringed by students leaving ema prayer plaques before exams. Gokoku-ji, founded by the fifth Tokugawa shogun, remains an active temple of considerable scale and architectural beauty, its main hall a National Important Cultural Property. Bunkyo\'s sacred sites reward those who walk slowly and pay attention.',
+      'Bunkyo is a ward of quiet neighborhoods and understated cultural depth, home to some of Tokyo\'s most beloved and historically significant sacred sites. Nezu Shrine, one of Tokyo\'s oldest, predating the Edo period,  is famous for its tunnel of hundreds of small torii gates and the spectacular azalea garden that draws crowds each spring. Yushima Tenjin (Yushima Tenmangu) is one of the city\'s most important academic shrines, dedicated to the god of learning and perpetually ringed by students leaving ema prayer plaques before exams. Gokoku-ji, founded by the fifth Tokugawa shogun, remains an active temple of considerable scale and architectural beauty, its main hall a National Important Cultural Property. Bunkyo\'s sacred sites reward those who walk slowly and pay attention.',
     lat: 35.7079,
     lng: 139.7523,
   },
@@ -40,7 +40,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '富岡八幡宮',
     imageUrl: 'https://flipjapanguide.com/wp-content/uploads/2022/08/Koto-City-Ward-Area-Guide_-History-of-Koto-City-Ward-1-1024x576.jpg.webp',
     description:
-      'Koto\'s temple and shrine heritage is rooted in the culture of the old shitamachi , the common people\'s city of Edo, where faith was practical, communal, and woven into the rhythms of working life. Tomioka Hachimangu is one of Tokyo\'s largest and historically most significant Hachiman shrines, famous as the birthplace of modern sumo wrestling and the site of Edo\'s grandest traditional festivals. Deep Fukagawa Fudoson (Naritasan Tokyo Betsuin), a branch of the famous Naritasan temple, draws enormous crowds for its regular fire rituals and is one of the busiest temples in eastern Tokyo. The ward\'s network of smaller neighborhood shrines reveals a world where Edo-era geography still shapes the sacred landscape. Koto\'s temple culture is less photogenic than Asakusa but arguably more authentic in its living continuity.',
+      'Koto\'s temple and shrine heritage is rooted in the culture of the old shitamachi, the common people\'s city of Edo, where faith was practical, communal, and woven into the rhythms of working life. Tomioka Hachimangu is one of Tokyo\'s largest and historically most significant Hachiman shrines, famous as the birthplace of modern sumo wrestling and the site of Edo\'s grandest traditional festivals. Deep Fukagawa Fudoson (Naritasan Tokyo Betsuin), a branch of the famous Naritasan temple, draws enormous crowds for its regular fire rituals and is one of the busiest temples in eastern Tokyo. The ward\'s network of smaller neighborhood shrines reveals a world where Edo-era geography still shapes the sacred landscape. Koto\'s temple culture is less photogenic than Asakusa but arguably more authentic in its living continuity.',
     lat: 35.6730,
     lng: 139.8170,
   },
@@ -55,7 +55,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '靖国神社',
     imageUrl: 'https://media.cntraveler.com/photos/5a92b05cc6516a534a5304d1/16:9/w_2560,c_limit/Kanda-Myojin_GettyImages-626661516.jpg',
     description:
-      'Chiyoda\'s sacred sites are few in number but vast in historical and political significance , monuments whose resonance reaches far beyond religious observance into the story of the modern Japanese nation. Yasukuni Shrine, founded in 1869 to enshrine those who died in service of the emperor, remains one of the most visited and most discussed sites in Japan, a place where spirituality and national memory intersect in ways that continue to generate intense conversation. Kanda Myojin (Kanda Shrine) is one of Tokyo\'s three great festival shrines and one of Edo\'s spiritual guardians, its spring festival one of the largest and oldest in the metropolitan area. With relatively few sites but exceptional heritage significance, Chiyoda occupies a unique and irreplaceable position in Tokyo\'s sacred geography.',
+      'Chiyoda\'s sacred sites are few in number but vast in historical and political significance, monuments whose resonance reaches far beyond religious observance into the story of the modern Japanese nation. Yasukuni Shrine, founded in 1869 to enshrine those who died in service of the emperor, remains one of the most visited and most discussed sites in Japan, a place where spirituality and national memory intersect in ways that continue to generate intense conversation. Kanda Myojin (Kanda Shrine) is one of Tokyo\'s three great festival shrines and one of Edo\'s spiritual guardians, its spring festival one of the largest and oldest in the metropolitan area. With relatively few sites but exceptional heritage significance, Chiyoda occupies a unique and irreplaceable position in Tokyo\'s sacred geography.',
     lat: 35.6938,
     lng: 139.7535,
   },
@@ -70,7 +70,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '回向院',
     imageUrl: 'https://static.gltjp.com/glt/data/directory/15000/14813/20230921_163200_19bd5731_w1920.webp',
     description:
-      'Sumida is a ward whose temple and shrine heritage belongs firmly to the history of old Edo , a place where Buddhism and Shinto wove through the daily life of the artisans, merchants, and laborers who made up the backbone of the shogunal city. Eko-in is the ward\'s most storied site, originally founded in 1657 to memorialise victims of the great Meireki fire; it later became the home of sumo wrestling from the Edo period through the early Meiji era. The Mukojima district along the Sumida River retains a loose cluster of temples and shrines that once made it a favourite retreat for Edo poets and artists. Sumida\'s sacred landscape is less grand than Taito\'s but carries a quieter, more intimate connection to the common life of historical Tokyo.',
+      'Sumida is a ward whose temple and shrine heritage belongs firmly to the history of old Edo, a place where Buddhism and Shinto wove through the daily life of the artisans, merchants, and laborers who made up the backbone of the shogunal city. Eko-in is the ward\'s most storied site, originally founded in 1657 to memorialise victims of the great Meireki fire; it later became the home of sumo wrestling from the Edo period through the early Meiji era. The Mukojima district along the Sumida River retains a loose cluster of temples and shrines that once made it a favorite retreat for Edo poets and artists. Sumida\'s sacred landscape is less grand than Taito\'s but carries a quieter, more intimate connection to the common life of historical Tokyo.',
     lat: 35.7101,
     lng: 139.8017,
   },
@@ -84,7 +84,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Zojo-ji', 'Shiba Daijingu', 'Atago Shrine'],
     wikiTitle: '増上寺',
     description:
-      'Minato\'s sacred landscape pairs genuine historical weight with a setting shaped by modern development , a ward where ancient temples stand in the shadow of office towers and luxury hotels. Zojo-ji, one of Tokyo\'s most important Jodo-shu Buddhist temples and the Tokugawa family\'s funerary site, commands a sweeping approach directly in front of Tokyo Tower, creating one of the city\'s most recognizable compositions. Shiba Daijingu, dedicated to Amaterasu Omikami, has operated in the ward since the Heian period, surviving earthquake and fire to remain an active community spiritual centre. Minato\'s other temples and shrines dot its hillier western neighborhoods, often tucked between apartment blocks in ways that reward a slow, exploratory approach.',
+      'Minato\'s sacred landscape pairs genuine historical weight with a setting shaped by modern development, a ward where ancient temples stand in the shadow of office towers and luxury hotels. Zojo-ji, one of Tokyo\'s most important Jodo-shu Buddhist temples and the Tokugawa family\'s funerary site, commands a sweeping approach directly in front of Tokyo Tower, creating one of the city\'s most recognizable compositions. Shiba Daijingu, dedicated to Amaterasu Omikami, has operated in the ward since the Heian period, surviving earthquake and fire to remain an active community spiritual centre. Minato\'s other temples and shrines dot its hillier western neighborhoods, often tucked between apartment blocks in ways that reward a slow, exploratory approach.',
     lat: 35.6581,
     lng: 139.7514,
   },
@@ -98,7 +98,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Meiji Jingu', 'Togo Shrine', 'Konno Hachimangu'],
     wikiTitle: '明治神宮',
     description:
-      'Shibuya\'s temple and shrine story is dominated by a single extraordinary place: Meiji Jingu, built in 1920 in honor of Emperor Meiji and Empress Shoken, set within a 70-hectare artificial forest of 100,000 trees donated from across Japan. The shrine draws over three million visitors on the first three days of each New Year , one of the largest hatsumode gatherings in the country , and provides a sense of natural and spiritual depth in the heart of one of the world\'s most intense urban environments. Beyond Meiji Jingu, the ward\'s other sacred sites are modest in number and scale. Shibuya\'s ranking rests almost entirely on the colossal cultural and spiritual weight of one exceptional institution.',
+      'Shibuya\'s temple and shrine story is dominated by a single extraordinary place: Meiji Jingu, built in 1920 in honor of Emperor Meiji and Empress Shoken, set within a 70-hectare artificial forest of 100,000 trees donated from across Japan. The shrine draws over three million visitors on the first three days of each New Year, one of the largest hatsumode gatherings in the country, and provides a sense of natural and spiritual depth in the heart of one of the world\'s most intense urban environments. Beyond Meiji Jingu, the ward\'s other sacred sites are modest in number and scale. Shibuya\'s ranking rests almost entirely on the colossal cultural and spiritual weight of one exceptional institution.',
     lat: 35.6639,
     lng: 139.6982,
   },
@@ -112,7 +112,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Hanazono Shrine', 'Isago Shrine', 'Daieiji Temple'],
     wikiTitle: '花園神社',
     description:
-      'Shinjuku\'s spiritual landscape is lively and diverse if not especially deep in ancient heritage. Hanazono Shrine, set incongruously beside the entertainment district of Kabukicho, is one of Tokyo\'s most urban places of worship , an active neighborhood shrine that hosts a famous year-end antique market and traditional festivals amid the neon surroundings. A network of smaller temples and shrines is distributed across the ward\'s varied residential and commercial zones. Shinjuku\'s sacred sites offer interesting texture but cannot compete with the historic density of the wards above it in this ranking.',
+      'Shinjuku\'s spiritual landscape is lively and diverse if not especially deep in ancient heritage. Hanazono Shrine, set incongruously beside the entertainment district of Kabukicho, is one of Tokyo\'s most urban places of worship, an active neighborhood shrine that hosts a famous year-end antique market and traditional festivals amid the neon surroundings. A network of smaller temples and shrines is distributed across the ward\'s varied residential and commercial zones. Shinjuku\'s sacred sites offer interesting texture but cannot compete with the historic density of the wards above it in this ranking.',
     lat: 35.6938,
     lng: 139.7035,
   },
@@ -126,7 +126,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Gotokuji Temple', 'Setagaya Hachiman Shrine', 'Kyosen-ji'],
     wikiTitle: '豪徳寺',
     description:
-      'Setagaya\'s most celebrated sacred site is Gotokuji Temple , the legendary birthplace of the maneki-neko (beckoning cat) figurine, now synonymous with good fortune across East Asia. Hundreds of white ceramic cats of all sizes line the temple grounds, an uncanny and charming sight that draws as many photographers as pilgrims. Setagaya Hachiman Shrine adds a more conventional neighborhood flavour as a community anchor for the ward\'s established residential character. Beyond these two, the ward\'s temple and shrine density is modest , its cultural energy runs more toward parks and residential life.',
+      'Setagaya\'s most celebrated sacred site is Gotokuji Temple, the legendary birthplace of the maneki-neko (beckoning cat) figurine, now synonymous with good fortune across East Asia. Hundreds of white ceramic cats of all sizes line the temple grounds, an uncanny and charming sight that draws as many photographers as pilgrims. Setagaya Hachiman Shrine adds a more conventional neighborhood flavour as a community anchor for the ward\'s established residential character. Beyond these two, the ward\'s temple and shrine density is modest , its cultural energy runs more toward parks and residential life.',
     lat: 35.6462,
     lng: 139.6530,
   },
@@ -140,7 +140,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Numabukuro Hikawa Shrine', 'Araiyakushi Baishoin'],
     wikiTitle: '沼袋氷川神社',
     description:
-      'Nakano\'s sacred landscape is typical of Tokyo\'s dense inner residential wards , a scattering of neighborhood shrines and smaller temples that serve as community focal points rather than destination sites. Araiyakushi Baishoin is the ward\'s best-known temple, a popular spot for healing prayers and a lively annual market. Nakano is not a ward one visits primarily for temples.',
+      'Nakano\'s sacred landscape is typical of Tokyo\'s dense inner residential wards, a scattering of neighborhood shrines and smaller temples that serve as community focal points rather than destination sites. Araiyakushi Baishoin is the ward\'s best-known temple, a popular spot for healing prayers and a lively annual market. Nakano is not a ward one visits primarily for temples.',
     lat: 35.7073,
     lng: 139.6659,
   },
@@ -168,7 +168,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Shinozaki Asama Shrine', 'Koiwa Hikawa Shrine'],
     wikiTitle: '篠崎浅間神社',
     description:
-      'Edogawa\'s temple and shrine heritage is modest , the ward developed largely as residential land reclaimed from marshes along the Edo River, with fewer of the ancient sacred sites that concentrated in Edo\'s original urban core. Local shrines and temples serve neighborhood communities throughout the ward. As with museums, Edogawa\'s real strength lies firmly in its parks.',
+      'Edogawa\'s temple and shrine heritage is modest, the ward developed largely as residential land reclaimed from marshes along the Edo River, with fewer of the ancient sacred sites that concentrated in Edo\'s original urban core. Local shrines and temples serve neighborhood communities throughout the ward. As with museums, Edogawa\'s real strength lies firmly in its parks.',
     lat: 35.7069,
     lng: 139.8679,
   },

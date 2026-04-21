@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { tokyoWardsParksData } from './data/parksData';
 import WardDetail from './WardDetail';
+import { distanceToCenter } from './utils/distance';
 
 const RANK_BG = ['#085041', '#1D9E75', '#1D9E75', '#1D9E75', '#1D9E75'];
 
@@ -38,6 +39,9 @@ function WardCard({ ward, rank, onClick }) {
 
       <div className="mt-3 ml-11 text-xs text-gray-500">
         {ward.majorParks} major parks · {ward.perCapita} m² green space per resident
+      </div>
+      <div className="mt-1 ml-11 text-xs text-gray-400">
+        {distanceToCenter(ward.lat, ward.lng)}
       </div>
 
       <div className="mt-2 ml-11 flex flex-wrap gap-1.5">

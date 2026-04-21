@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { tokyoWardsMuseumData } from './data/museumsData';
 import MuseumWardDetail from './MuseumWardDetail';
+import { distanceToCenter } from './utils/distance';
 
 const PRIMARY  = '#9C27B0';
 const LIGHT    = '#F3E8FF';
@@ -51,6 +52,9 @@ function MuseumCard({ ward, rank, onClick }) {
 
       <div className="mt-3 ml-11 text-xs text-gray-500">
         {ward.totalMuseums} museums total · {ward.prominentMuseums} nationally recognized
+      </div>
+      <div className="mt-1 ml-11 text-xs text-gray-400">
+        {distanceToCenter(ward.lat, ward.lng)}
       </div>
 
       <div className="mt-2 ml-11 flex flex-wrap gap-1.5">
