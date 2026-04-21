@@ -10,10 +10,12 @@ const PARK_ICON = (
 );
 
 export default function WardDetail({ ward, rank, onBack }) {
-  const [imageUrl, setImageUrl] = useState(null);
+  const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
 
   useEffect(() => {
+    if (ward.imageUrl) return;
+
     const scale = url => url.replace(/\/\d+px-/, '/400px-');
 
     fetch(`https://ja.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(ward.wikiTitle)}`)
@@ -30,7 +32,7 @@ export default function WardDetail({ ward, rank, onBack }) {
         }
       })
       .catch(() => {});
-  }, [ward.wikiTitle, ward.name]);
+  }, [ward.wikiTitle, ward.name, ward.imageUrl]);
 
   const showImage = imageUrl && !imgFailed;
 

@@ -17,10 +17,12 @@ const LIGHT   = '#FDE8E8';
 const DARK    = '#B71C1C';
 
 export default function TempleWardDetail({ ward, rank, onBack }) {
-  const [imageUrl, setImageUrl] = useState(null);
+  const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
 
   useEffect(() => {
+    if (ward.imageUrl) return;
+
     const scale = url => url.replace(/\/\d+px-/, '/400px-');
 
     fetch(`https://ja.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(ward.wikiTitle)}`)

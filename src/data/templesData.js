@@ -8,6 +8,7 @@ export const tokyoWardsTempleData = [
     heritageScore: 9.0,
     featuredSites: ['Senso-ji', 'Ueno Tosho-gu', 'Yanaka Temple District'],
     wikiTitle: '浅草寺',
+    imageUrl: 'https://thetruejapan.com/wp-content/uploads/2017/10/Sensoji-Temple-Crowds-of-People.jpg',
     description:
       'Taito is Japan\'s undisputed capital of sacred sites, home to a density of temples and shrines that no other ward in Tokyo — or perhaps any city in the country — can match. Senso-ji, founded in 628 AD, is Tokyo\'s oldest and most visited temple, a thunderous place of incense smoke and pilgrimage that draws over 30 million visitors a year into the narrow alleys of Asakusa. The broader ward forms the heart of old Edo\'s temple belt: the Yanaka neighborhood alone packs dozens of small Buddhist temples along its cemetery lanes, many dating back three or more centuries. Kaneiji in Ueno — once the family temple of the Tokugawa shoguns — anchors the ward\'s Buddhist importance alongside Ueno Tosho-gu\'s blazing gold shrine building. For pilgrims, historians, or those who want to understand what Edo looked and felt like, Taito offers a depth of sacred architecture found nowhere else in the metropolitan area.',
     lat: 35.7126,
@@ -22,6 +23,7 @@ export const tokyoWardsTempleData = [
     heritageScore: 7.5,
     featuredSites: ['Nezu Shrine', 'Yushima Tenjin', 'Gokoku-ji'],
     wikiTitle: '根津神社',
+    imageUrl: 'https://en.japantravel.com/photo/poi-179-230606/1200x630/tokyo-nezu-shrine-230606.jpg',
     description:
       'Bunkyo is a ward of quiet neighborhoods and understated cultural depth, home to some of Tokyo\'s most beloved and historically significant sacred sites. Nezu Shrine — one of Tokyo\'s oldest, predating the Edo period — is famous for its tunnel of hundreds of small torii gates and the spectacular azalea garden that draws crowds each spring. Yushima Tenjin (Yushima Tenmangu) is one of the city\'s most important academic shrines, dedicated to the god of learning and perpetually ringed by students leaving ema prayer plaques before exams. Gokoku-ji, founded by the fifth Tokugawa shogun, remains an active temple of considerable scale and architectural beauty, its main hall a National Important Cultural Property. Bunkyo\'s sacred sites reward those who walk slowly and pay attention.',
     lat: 35.7079,
@@ -36,6 +38,7 @@ export const tokyoWardsTempleData = [
     heritageScore: 6.5,
     featuredSites: ['Tomioka Hachimangu', 'Deep Fukagawa Fudoson', 'Susaki Inari Shrine'],
     wikiTitle: '富岡八幡宮',
+    imageUrl: 'https://i0.wp.com/tokyotourists.com/wp-content/uploads/2020/10/Koto-Tokyo-1.jpg?fit=768%2C495&ssl=1',
     description:
       'Koto\'s temple and shrine heritage is rooted in the culture of the old shitamachi — the common people\'s city of Edo, where faith was practical, communal, and woven into the rhythms of working life. Tomioka Hachimangu is one of Tokyo\'s largest and historically most significant Hachiman shrines, famous as the birthplace of modern sumo wrestling and the site of Edo\'s grandest traditional festivals. Deep Fukagawa Fudoson (Naritasan Tokyo Betsuin), a branch of the famous Naritasan temple, draws enormous crowds for its regular fire rituals and is one of the busiest temples in eastern Tokyo. The ward\'s network of smaller neighborhood shrines reveals a world where Edo-era geography still shapes the sacred landscape. Koto\'s temple culture is less photogenic than Asakusa but arguably more authentic in its living continuity.',
     lat: 35.6730,
@@ -50,6 +53,7 @@ export const tokyoWardsTempleData = [
     heritageScore: 8.5,
     featuredSites: ['Yasukuni Shrine', 'Kanda Myojin', 'Kudan Shrine'],
     wikiTitle: '靖国神社',
+    imageUrl: 'https://media.cntraveler.com/photos/5a92b05cc6516a534a5304d1/16:9/w_2560,c_limit/Kanda-Myojin_GettyImages-626661516.jpg',
     description:
       'Chiyoda\'s sacred sites are few in number but vast in historical and political significance — monuments whose resonance reaches far beyond religious observance into the story of the modern Japanese nation. Yasukuni Shrine, founded in 1869 to enshrine those who died in service of the emperor, remains one of the most visited and most discussed sites in Japan, a place where spirituality and national memory intersect in ways that continue to generate intense conversation. Kanda Myojin (Kanda Shrine) is one of Tokyo\'s three great festival shrines and one of Edo\'s spiritual guardians, its spring festival one of the largest and oldest in the metropolitan area. With relatively few sites but exceptional heritage significance, Chiyoda occupies a unique and irreplaceable position in Tokyo\'s sacred geography.',
     lat: 35.6938,
@@ -64,6 +68,7 @@ export const tokyoWardsTempleData = [
     heritageScore: 5.5,
     featuredSites: ['Eko-in', 'Sumiyoshi Taisha Tokyo', 'Hashiba Fudoson'],
     wikiTitle: '回向院',
+    imageUrl: 'https://static.gltjp.com/glt/data/directory/15000/14813/20230921_163200_19bd5731_w1920.webp',
     description:
       'Sumida is a ward whose temple and shrine heritage belongs firmly to the history of old Edo — a place where Buddhism and Shinto wove through the daily life of the artisans, merchants, and laborers who made up the backbone of the shogunal city. Eko-in is the ward\'s most storied site, originally founded in 1657 to memorialise victims of the great Meireki fire; it later became the home of sumo wrestling from the Edo period through the early Meiji era. The Mukojima district along the Sumida River retains a loose cluster of temples and shrines that once made it a favourite retreat for Edo poets and artists. Sumida\'s sacred landscape is less grand than Taito\'s but carries a quieter, more intimate connection to the common life of historical Tokyo.',
     lat: 35.7101,

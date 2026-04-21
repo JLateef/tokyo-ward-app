@@ -15,10 +15,12 @@ const LIGHT    = '#F3E8FF';
 const DARK     = '#4A148C';
 
 export default function MuseumWardDetail({ ward, rank, onBack }) {
-  const [imageUrl, setImageUrl] = useState(null);
+  const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
 
   useEffect(() => {
+    if (ward.imageUrl) return;
+
     const scale = url => url.replace(/\/\d+px-/, '/400px-');
 
     fetch(`https://ja.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(ward.wikiTitle)}`)

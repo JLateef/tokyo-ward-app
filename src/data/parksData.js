@@ -7,6 +7,7 @@ export const tokyoWardsParksData = [
     perCapita: 14.2,
     featuredParks: ['Shinozaki Park', 'Gyosen Park', 'Natsumi Park'],
     wikiTitle: '篠崎公園',
+    imageUrl: 'https://whereintokyo.com/pix/800/800-edo-heisei.jpg',
     description:
       'Edogawa is Tokyo\'s easternmost special ward, stretching along the Edo River that forms the natural boundary with Chiba Prefecture. The ward leads the city in picnic-worthy green space, offering more open parks per resident than anywhere else in the Tokyo metropolitan area. Shinozaki Park anchors the ward\'s green network — a sweeping riverside expanse with open lawns wide enough to fly kites or lay out a blanket without elbowing your neighbour. The flat terrain and long river embankments make cycling from park to park a genuine pleasure, extending the outdoor experience well beyond individual sites. With the highest green space per resident of any ward in this ranking, Edogawa is the clear choice for anyone who puts nature first.',
     lat: 35.7069,
@@ -20,6 +21,7 @@ export const tokyoWardsParksData = [
     perCapita: 13.1,
     featuredParks: ['Hikarigaoka Park', 'Shakujii Park', 'Nerima Park'],
     wikiTitle: '光が丘公園',
+    imageUrl: 'https://cdn.japan-property.jp/uploads/area_guide_image/163/24471119_m.webp',
     description:
       'Nerima occupies the leafy northwest of Tokyo\'s special wards, retaining more of its low-rise, tree-lined character than the districts closer to the city center. Hikarigaoka Park — a 40-hectare expanse carved from a former US military airfield — is one of the finest picnic destinations in the entire city, with sweeping open lawns bordered by double rows of ginkgo trees that turn brilliant gold each November. Shakujii Park adds a quieter counterpoint, with two forest-fringed ponds that draw contemplative walkers and photographers across all four seasons. The ward\'s per-capita green space sits well above the Tokyo average, a product of deliberate planning that has preserved open land here for decades. Nerima rewards those who want serious outdoor space without straying far from the city\'s core.',
     lat: 35.7357,
@@ -33,6 +35,7 @@ export const tokyoWardsParksData = [
     perCapita: 11.5,
     featuredParks: ['Toneri Park', 'Kita-Ayase Park', 'Toshima Ryokuchi'],
     wikiTitle: '舎人公園',
+    imageUrl: 'https://cdn.japan-property.jp/uploads/area_guide_image/170/3676973_m.webp',
     description:
       'Adachi occupies the broad flatlands of northern Tokyo, a ward long associated with a working-class identity that has quietly become one of the city\'s best parks destinations. Its showpiece is Toneri Park — a remarkable 71-hectare landscape with vast open meadows, a central lake for rowboats, and wide paths that visitors can explore for hours without retracing their steps. The park\'s sheer scale is genuinely rare within the Tokyo limits; on a clear spring afternoon it absorbs thousands of families while still feeling open and unhurried. Beyond Toneri, the ward\'s riverside greenways along the Arakawa extend the outdoor experience for kilometres in either direction. Adachi offers a level of open space that few central-Tokyo addresses can match.',
     lat: 35.7754,
@@ -46,6 +49,7 @@ export const tokyoWardsParksData = [
     perCapita: 10.2,
     featuredParks: ['Kinuta Park', 'Komazawa Olympic Park', 'Todoroki Valley'],
     wikiTitle: '砧公園',
+    imageUrl: 'https://www.gotokyo.org/en/spot/707/images/main_450.webp',
     description:
       'Setagaya is Tokyo\'s most populous special ward and, to many long-term residents, its most liveable — a place where tree-lined streets, independent cafés, and excellent parks coexist in easy balance. Kinuta Park is its green centerpiece: a 38-hectare expanse consistently voted among the top picnic spots in the entire city, with a vast open lawn capable of accommodating hundreds of families on a warm weekend afternoon. Komazawa Olympic Park, built for the 1964 Tokyo Games, adds a second major anchor with wide cycling paths, open recreation grounds, and the quiet dignity of a venue that shaped the city\'s modern history. The ward\'s gentle topography and dense street planting give the whole neighborhood a parklike quality even between formal green spaces. Setagaya is where Tokyoites who genuinely value the outdoors tend to choose to live.',
     lat: 35.6462,
@@ -59,6 +63,7 @@ export const tokyoWardsParksData = [
     perCapita: 9.8,
     featuredParks: ['Akatsuka Park', 'Itabashi Central Park', 'Nishidai Park'],
     wikiTitle: '赤塚公園',
+    imageUrl: 'https://itabashi-kanko.jp/resource/2/img/20210317160317600280842.jpg',
     description:
       'Itabashi is a largely residential ward in northwest Tokyo that rewards those willing to explore beyond the city\'s more celebrated districts. Its green centerpiece is Akatsuka Park — a 54-hectare complex spanning multiple themed zones, from wide open meadows to a manicured Japanese garden, all linked by broad pedestrian paths that make the site easy to navigate at any pace. The park is pleasantly quiet on weekdays and joyfully busy at weekends, popular with families who arrive with picnic blankets and a full afternoon to spare. Lower population density compared to central-Tokyo wards means that even in peak season these parks rarely feel crowded. Itabashi is a genuinely underrated ward that long-time Tokyo residents tend to keep to themselves.',
     lat: 35.7509,
