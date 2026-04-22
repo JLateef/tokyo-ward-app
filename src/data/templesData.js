@@ -25,7 +25,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '根津神社',
     imageUrl: 'https://en.japantravel.com/photo/poi-179-230606/1200x630/tokyo-nezu-shrine-230606.jpg',
     description:
-      'Bunkyo is a ward of quiet neighborhoods and understated cultural depth, home to some of Tokyo\'s most beloved and historically significant sacred sites. Nezu Shrine, one of Tokyo\'s oldest, predating the Edo period,  is famous for its tunnel of hundreds of small torii gates and the spectacular azalea garden that draws crowds each spring. Yushima Tenjin (Yushima Tenmangu) is one of the city\'s most important academic shrines, dedicated to the god of learning and perpetually ringed by students leaving ema prayer plaques before exams. Gokoku-ji, founded by the fifth Tokugawa shogun, remains an active temple of considerable scale and architectural beauty, its main hall a National Important Cultural Property. Bunkyo\'s sacred sites reward those who walk slowly and pay attention.',
+      'Bunkyo is a ward of quiet neighborhoods and understated cultural depth, home to some of Tokyo\'s most beloved and historically significant sacred sites. Nezu Shrine, one of Tokyo\'s oldest, predating the Edo period,  is famous for its tunnel of hundreds of small torii gates and the spectacular azalea garden that draws crowds each spring. Yushima Tenjin (Yushima Tenmangu) is one of the city\'s most important academic shrines, dedicated to the god of learning and perpetually rang by students leaving ema prayer plaques before exams. Gokoku-ji, founded by the fifth Tokugawa shogun, remains an active temple of considerable scale and architectural beauty, its main hall a National Important Cultural Property. Bunkyo\'s sacred sites reward those who walk slowly and pay attention.',
     lat: 35.7079,
     lng: 139.7523,
   },
@@ -40,7 +40,7 @@ export const tokyoWardsTempleData = [
     wikiTitle: '富岡八幡宮',
     imageUrl: 'https://flipjapanguide.com/wp-content/uploads/2022/08/Koto-City-Ward-Area-Guide_-History-of-Koto-City-Ward-1-1024x576.jpg.webp',
     description:
-      'Koto\'s temple and shrine heritage is rooted in the culture of the old shitamachi, the common people\'s city of Edo, where faith was practical, communal, and woven into the rhythms of working life. Tomioka Hachimangu is one of Tokyo\'s largest and historically most significant Hachiman shrines, famous as the birthplace of modern sumo wrestling and the site of Edo\'s grandest traditional festivals. Deep Fukagawa Fudoson (Naritasan Tokyo Betsuin), a branch of the famous Naritasan temple, draws enormous crowds for its regular fire rituals and is one of the busiest temples in eastern Tokyo. The ward\'s network of smaller neighborhood shrines reveals a world where Edo-era geography still shapes the sacred landscape. Koto\'s temple culture is less photogenic than Asakusa but arguably more authentic in its living continuity.',
+      'Koto\'s temple and shrine heritage is rooted in the culture of the old shitamachi, the common people\'s city of Edo, where faith was practical, communal, and woven into the rhythms of working life. Tomioka Hachimangu is one of Tokyo\'s largest and historically most significant Hachiman shrines, famous as the birthplace of modern sumo wrestling and the site of Edo\'s liveliest traditional festivals. Deep Fukagawa Fudoson (Naritasan Tokyo Betsuin), a branch of the famous Naritasan temple, draws enormous crowds for its regular fire rituals and is one of the busiest temples in eastern Tokyo. The ward\'s network of smaller neighborhood shrines reveals a world where Edo-era geography still shapes the sacred landscape. Koto\'s temple culture is less photogenic than Asakusa but arguably more authentic in its living continuity.',
     lat: 35.6730,
     lng: 139.8170,
   },
@@ -98,7 +98,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Meiji Jingu', 'Togo Shrine', 'Konno Hachimangu'],
     wikiTitle: '明治神宮',
     description:
-      'Shibuya\'s temple and shrine story is dominated by a single extraordinary place: Meiji Jingu, built in 1920 in honor of Emperor Meiji and Empress Shoken, set within a 70-hectare artificial forest of 100,000 trees donated from across Japan. The shrine draws over three million visitors on the first three days of each New Year, one of the largest hatsumode gatherings in the country, and provides a sense of natural and spiritual depth in the heart of one of the world\'s most intense urban environments. Beyond Meiji Jingu, the ward\'s other sacred sites are modest in number and scale. Shibuya\'s ranking rests almost entirely on the colossal cultural and spiritual weight of one exceptional institution.',
+      'Shibuya\'s temple and shrine story is dominated by a single extraordinary place: Meiji Jingu, built in 1920 in honor of Emperor Meiji and Empress Shoken, set within a 173-acre artificial forest of 100,000 trees donated from across Japan. The shrine draws over three million visitors on the first three days of each New Year, one of the largest hatsumode gatherings in the country, and provides a sense of natural and spiritual depth in the heart of one of the world\'s most intense urban environments. Beyond Meiji Jingu, the ward\'s other sacred sites are modest in number and scale. Shibuya\'s ranking rests almost entirely on the colossal cultural and spiritual weight of one exceptional institution.',
     lat: 35.6639,
     lng: 139.6982,
   },
@@ -126,7 +126,7 @@ export const tokyoWardsTempleData = [
     featuredSites: ['Gotokuji Temple', 'Setagaya Hachiman Shrine', 'Kyosen-ji'],
     wikiTitle: '豪徳寺',
     description:
-      'Setagaya\'s most celebrated sacred site is Gotokuji Temple, the legendary birthplace of the maneki-neko (beckoning cat) figurine, now synonymous with good fortune across East Asia. Hundreds of white ceramic cats of all sizes line the temple grounds, an uncanny and charming sight that draws as many photographers as pilgrims. Setagaya Hachiman Shrine adds a more conventional neighborhood flavour as a community anchor for the ward\'s established residential character. Beyond these two, the ward\'s temple and shrine density is modest , its cultural energy runs more toward parks and residential life.',
+      'Setagaya\'s most celebrated sacred site is Gotokuji Temple, the legendary birthplace of the maneki-neko (beckoning cat) figurine, now synonymous with good fortune across East Asia. Hundreds of white ceramic cats of all sizes line the temple grounds, an uncanny and charming sight that draws as many photographers as pilgrims. Setagaya Hachiman Shrine adds a more conventional neighborhood flavour as a community anchor for the ward\'s established residential character. Beyond these two, the ward\'s temple and shrine density is modest, its cultural energy runs more toward parks and residential life.',
     lat: 35.6462,
     lng: 139.6530,
   },

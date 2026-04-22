@@ -8,9 +8,9 @@ export const tokyoWardsMuseumData = [
     perCapita: 11.3,
     featuredMuseums: ['Tokyo National Museum', 'National Museum of Western Art', 'Tokyo Metropolitan Museum of Art'],
     wikiTitle: '東京国立博物館',
-    imageUrl: 'https://www.japan-guide.com/g18/3054_tokyo_01.jpg',
+    imageUrl: 'https://www.tripsavvy.com/thmb/5V2vfrojwmCzg8cYoTotZzHBsLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tokyonationalmuseum-da510dbea7d648c190c66390eb9a651f.jpg',
     description:
-      'Taito ward hosts the most remarkable concentration of museums in all of Japan, centred on the legendary Ueno hill where six major national and metropolitan institutions stand within ten minutes\' walk of one another. The Tokyo National Museum alone holds over 120,000 objects , Japan\'s largest collection, tracing the full arc of Japanese civilisation from prehistoric earthenware to Edo-period masterworks. The National Museum of Western Art, a Le Corbusier-designed UNESCO World Heritage building, anchors the ward\'s international dimension with an outstanding collection of Impressionist works. Beyond Ueno, the backstreets of Yanaka and Asakusa are threaded with smaller specialty museums covering calligraphy, lacquerware, and traditional crafts. For anyone who cares about museums, Taito is simply where Tokyo\'s cultural conversation begins.',
+      'Taito ward hosts the most remarkable concentration of museums in all of Japan, centered on the legendary Ueno hill where six major national and metropolitan institutions stand within ten minutes\' walk of one another. The Tokyo National Museum alone holds over 120,000 objects! This is by far Japan\'s largest collection, tracing the full arc of Japanese civilisation from prehistoric earthenware to Edo-period masterworks. The National Museum of Western Art, a Le Corbusier-designed UNESCO World Heritage building, anchors the ward\'s international dimension with an outstanding collection of Impressionist works. Beyond Ueno, the backstreets of Yanaka and Asakusa are threaded with smaller specialty museums covering calligraphy, lacquerware, and traditional crafts. For anyone who cares about museums, Taito is simply where Tokyo\'s cultural conversation begins.',
     lat: 35.7126,
     lng: 139.7850,
   },
@@ -25,7 +25,7 @@ export const tokyoWardsMuseumData = [
     wikiTitle: '国立新美術館',
     imageUrl: 'https://www.nact.jp/common/img/index/img_about_main.jpg',
     description:
-      'Minato is Tokyo\'s contemporary culture capital, home to the most internationally connected museum ecosystem in the city and the ward that established Roppongi as one of Asia\'s foremost arts destinations. The National Art Center Tokyo , Japan\'s largest dedicated exhibition space, a wave-form building designed by Kisho Kurokawa , defines one corner of the Roppongi Art Triangle, with the Mori Art Museum and Suntory Museum of Art completing the circuit just minutes away. The ward\'s arts infrastructure extends into Azabu and Shiba, where 21_21 Design Sight, the NHK Broadcasting Museum, and numerous corporate galleries add further texture. Minato\'s collections skew modern and global, reflecting the ward\'s character as home to the city\'s highest concentration of embassies and international businesses. For contemporary and design-forward visitors, no other ward in Tokyo offers the same density of quality.',
+      'Minato is Tokyo\'s contemporary culture capital, home to the most internationally connected museum ecosystem in the city and the ward that established Roppongi as one of Asia\'s foremost arts destinations. The National Art Center Tokyo, Japan\'s largest dedicated exhibition space, a wave-form building designed by Kisho Kurokawa, defines one corner of the Roppongi Art Triangle, with the Mori Art Museum and Suntory Museum of Art completing the circuit just minutes away. The ward\'s arts infrastructure extends into Azabu and Shiba, where 21_21 Design Sight, the NHK Broadcasting Museum, and numerous corporate galleries add further texture. Minato\'s collections skew modern and global, reflecting the ward\'s character as home to the city\'s highest concentration of embassies and international businesses. For contemporary and design-forward visitors, no other ward in Tokyo offers the same density of quality.',
     lat: 35.6581,
     lng: 139.7514,
   },
@@ -40,7 +40,7 @@ export const tokyoWardsMuseumData = [
     wikiTitle: '東京国立近代美術館',
     imageUrl: 'https://cdn.britannica.com/89/145589-050-FA9355BE/Museum-of-Modern-Art-Tokyo.jpg',
     description:
-      'Chiyoda is the administrative heart of Japan, the ward containing the Imperial Palace and the National Diet , and by a considerable margin, the highest museum density per resident of any ward in the city. With a population of just under 70,000, its national cultural institutions loom especially large: the National Museum of Modern Art at Kitanomaru Park is the nation\'s principal public collection of post-Meiji Japanese art, tracing over a century of painting, sculpture, and craft. The Crafts Gallery, housed in a Meiji-era red-brick building in the same park complex, sharpens the focus on the applied arts. The Idemitsu Museum of Arts and the Mitsubishi Ichigokan Museum add private-collection depth in the Marunouchi business district. Chiyoda rewards visitors who arrive with time to spare beyond the palace and the parliament.',
+      'Chiyoda is the administrative heart of Japan, the ward containing the Imperial Palace and the National Diet, and by a considerable margin, the highest museum density per resident of any ward in the city. With a population of just under 70,000, its national cultural institutions loom especially large: the National Museum of Modern Art at Kitanomaru Park is the nation\'s principal public collection of post-Meiji Japanese art, tracing over a century of painting, sculpture, and craft. The Crafts Gallery, housed in a Meiji-era red-brick building in the same park complex, sharpens the focus on the applied arts. The Idemitsu Museum of Arts and the Mitsubishi Ichigokan Museum add private-collection depth in the Marunouchi business district. Chiyoda rewards visitors who arrive with time to spare beyond the palace and the parliament.',
     lat: 35.6938,
     lng: 139.7535,
   },
@@ -55,7 +55,7 @@ export const tokyoWardsMuseumData = [
     wikiTitle: '日本科学未来館',
     imageUrl: 'https://svcstrg.cld.navitime.jp/travelguide/p13080010/p13080010_01.jpg',
     description:
-      'Koto is a ward of two faces: dense shitamachi neighborhoods to the west and the spectacular artificial islands of Odaiba to the east, where Tokyo has concentrated some of its most ambitious cultural institutions. Miraikan , the National Museum of Emerging Science and Innovation , is arguably the most fully realised science museum in Japan, an immersive exploration of robotics, space, and the internet that draws over a million visitors a year. The Tokyo Museum of Contemporary Art, set within Kiba Park, holds a rigorous collection of post-war and contemporary art and stages some of the city\'s most ambitious exhibitions. The Fukagawa Edo Museum offers a ground-level recreation of an Edo-period neighborhood , an extraordinary contrast to Odaiba\'s visions of the future just across the ward. Koto\'s museum credentials are formidable; its large population is the only metric that keeps it from ranking higher.',
+      'Koto is a ward of two faces: dense shitamachi neighborhoods to the west and the spectacular artificial islands of Odaiba to the east, where Tokyo has concentrated some of its most ambitious cultural institutions. Miraikan, the National Museum of Emerging Science and Innovation, is arguably the most fully realized science museum in Japan, an immersive exploration of robotics, space, and the Internet that draws over a million visitors a year. The Tokyo Museum of Contemporary Art, set within Kiba Park, holds a rigorous collection of post-war and contemporary art, and stages some of the city\'s most ambitious exhibitions. The Fukagawa Edo Museum offers a ground-level recreation of an Edo-period neighborhood, an extraordinary contrast to Odaiba\'s vision of the future just across the ward. Koto\'s museum credentials are formidable; its large population is the only metric that keeps it from ranking higher.',
     lat: 35.6730,
     lng: 139.8170,
   },
@@ -70,7 +70,7 @@ export const tokyoWardsMuseumData = [
     wikiTitle: '東京都写真美術館',
     imageUrl: 'https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/10/ota-memorial-museum-of-art-1024x600.jpg',
     description:
-      'Shibuya is synonymous with commercial energy and youth culture, but beneath the crowds lies a museum ecosystem built on specialty institutions rather than grand national collections. The Tokyo Photographic Art Museum at Yebisu Garden Place is among the finest photography museums in Asia, with a permanent collection of over 45,000 works and a consistently ambitious international program. The Ota Memorial Museum of Art in Harajuku holds one of the world\'s most important private collections of ukiyo-e woodblock prints , a quiet marvel steps from Takeshita Street. The Watari-um brings an independent and internationally connected perspective to contemporary art, programming shows with a rigour that far exceeds its modest footprint. Shibuya\'s museums reward those who seek them out , small, precise, and often revelatory.',
+      'Shibuya is synonymous with commercial energy and youth culture, but beneath the crowds lies a museum ecosystem built on specialty institutions rather than grand national collections. The Tokyo Photographic Art Museum at Yebisu Garden Place is among the best photography museums in Asia, with a permanent collection of over 45,000 works and a consistently ambitious international program. The Ota Memorial Museum of Art in Harajuku holds one of the world\'s most important private collections of ukiyo-e woodblock prints, a quiet marvel just a stone\'s throw from the bustling Takeshita Street. The Watari-um brings an independent and internationally connected perspective to contemporary art, programming shows with a rigor that far exceeds its modest footprint. Shibuya\'s museums reward those who appreciate small, intimate, and often revelatory art spaces.',
     lat: 35.6639,
     lng: 139.6982,
   },
@@ -98,7 +98,7 @@ export const tokyoWardsMuseumData = [
     featuredMuseums: ['SOMPO Museum of Art', 'Shinjuku Historical Museum'],
     wikiTitle: '損保ジャパン東郷青児美術館',
     description:
-      'Shinjuku is primarily a commercial and entertainment district, but it harbours a few museum gems for those willing to look past the neon. The SOMPO Museum of Art , occupying a skyscraper in West Shinjuku , holds Van Gogh\'s Sunflowers, purchased in 1987 for a then-world-record price, alongside a strong collection of Japanese and Western painting. A handful of neighborhood history museums and specialist galleries dot the ward\'s quieter fringes. Most visitors come to Shinjuku for other reasons; its museums are a pleasant surprise.',
+      'Shinjuku is primarily a commercial and entertainment district, but it harbours a few museum gems for those willing to look past the neon. The SOMPO Museum of Art, occupying a skyscraper in West Shinjuku, holds Van Gogh\'s Sunflowers, purchased in 1987 for a then-world-record price, alongside a strong collection of Japanese and Western painting. A handful of neighborhood history museums and specialist galleries dot the ward\'s quieter fringes. Most visitors come to Shinjuku for other reasons; its museums are a pleasant surprise.',
     lat: 35.6938,
     lng: 139.7035,
   },
@@ -112,7 +112,7 @@ export const tokyoWardsMuseumData = [
     featuredMuseums: ['Teien Art Museum', 'National Film Archive', 'Meguro Parasitological Museum'],
     wikiTitle: '東京都庭園美術館',
     description:
-      'Meguro is a well-heeled residential ward whose museum offering is small but of unusually high caliber. The Tokyo Metropolitan Teien Art Museum , a 1933 Art Deco villa surrounded by a formal Japanese garden , is as remarkable for the beauty of the building as for the exhibitions it houses. The National Film Archive of Japan adds a specialist and significant presence for cinema and moving-image culture. And the Meguro Parasitological Museum is, quite simply, one of the most unusual institutions in the world , a single-topic research museum open to the public that has become a genuine Tokyo curiosity.',
+      'Meguro is a well-heeled residential ward whose museum offering is small but of unusually high caliber. The Tokyo Metropolitan Teien Art Museum, a 1933 Art Deco villa surrounded by a formal Japanese garden, is as remarkable for the beauty of the building as for the exhibitions it houses. The National Film Archive of Japan adds a specialist and significant presence for cinema and moving-image culture. And the Meguro Parasitological Museum is, quite simply, one of the most unusual institutions in the world, a single-topic research museum open to the public that has become a genuine Tokyo curiosity.',
     lat: 35.6414,
     lng: 139.6986,
   },
@@ -168,7 +168,7 @@ export const tokyoWardsMuseumData = [
     featuredMuseums: ['Gyosen Park Science Museum', 'Edogawa Ward History Museum'],
     wikiTitle: '江戸川区',
     description:
-      'Edogawa is primarily a residential and parks ward , the top-ranked ward for green space in this app , and its museum provision reflects that priority. The ward\'s few cultural institutions are neighborhood-scale, oriented toward local residents rather than city-wide visitors. Its exceptional parks are its real draw.',
+      'Edogawa is primarily a residential and parks ward, the top-ranked ward for green space in this app, and its museum provision reflects that priority. The ward\'s few cultural institutions are neighborhood-scale, oriented toward local residents rather than city-wide visitors. Its exceptional parks are its real draw.',
     lat: 35.7069,
     lng: 139.8679,
   },

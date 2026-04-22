@@ -23,7 +23,7 @@ export const tokyoWardsParksData = [
     wikiTitle: '光が丘公園',
     imageUrl: 'https://cdn.japan-property.jp/uploads/area_guide_image/163/24471119_m.webp',
     description:
-      'Nerima occupies the leafy northwest of Tokyo\'s special wards, retaining more of its low-rise, tree-lined character than the districts closer to the city center. Hikarigaoka Park, a 40-hectare expanse carved from a former US military airfield, is one of the finest picnic destinations in the entire city, with sweeping open lawns bordered by double rows of ginkgo trees that turn brilliant gold each November. Shakujii Park adds a quieter counterpoint, with two forest-fringed ponds that draw contemplative walkers and photographers across all four seasons. The ward\'s per-capita green space sits well above the Tokyo average, a product of deliberate planning that has preserved open land here for decades. Nerima rewards those who want serious outdoor space without straying far from the city\'s core.',
+      'Nerima occupies the leafy northwest of Tokyo\'s special wards, retaining more of its low-rise, tree-lined character than the districts closer to the city center. Hikarigaoka Park, a 99-acre expanse carved from a former US military airfield, is one of the best picnic destinations in the entire city, with sweeping open lawns bordered by double rows of ginkgo trees that turn brilliant gold each November. Shakujii Park adds a quieter counterpoint, with two forest-fringed ponds that draw contemplative walkers and photographers across all four seasons. The ward\'s per-capita green space sits well above the Tokyo average, a product of deliberate planning that has preserved open land here for decades. Nerima rewards those who want serious outdoor space without straying far from the city\'s core.',
     lat: 35.7357,
     lng: 139.6523,
   },
@@ -37,7 +37,7 @@ export const tokyoWardsParksData = [
     wikiTitle: '舎人公園',
     imageUrl: 'https://cdn.japan-property.jp/uploads/area_guide_image/170/3676973_m.webp',
     description:
-      'Adachi occupies the broad flatlands of northern Tokyo, a ward long associated with a working-class identity that has quietly become one of the city\'s best parks destinations. Its showpiece is Toneri Park, a remarkable 71-hectare landscape with vast open meadows, a central lake for rowboats, and wide paths that visitors can explore for hours without retracing their steps. The park\'s sheer scale is genuinely rare within the Tokyo limits; on a clear spring afternoon it absorbs thousands of families while still feeling open and unhurried. Beyond Toneri, the ward\'s riverside greenways along the Arakawa extend the outdoor experience for kilometres in either direction. Adachi offers a level of open space that few central-Tokyo addresses can match.',
+      'Adachi occupies the broad flatlands of northern Tokyo, a ward long associated with a working-class identity that has quietly become one of the city\'s best parks destinations. Its showpiece is Toneri Park, a remarkable 175-acre landscape with vast open meadows, a central lake for rowboats, and wide paths that visitors can explore for hours without retracing their steps. The park\'s sheer scale is genuinely rare within the Tokyo limits; on a clear spring afternoon it absorbs thousands of families while still feeling open and unhurried. Beyond Toneri, the ward\'s riverside greenways along the Arakawa extend the outdoor experience for kilometres in either direction. Adachi offers a level of open space that few central-Tokyo addresses can match.',
     lat: 35.7754,
     lng: 139.8045,
   },
@@ -49,9 +49,9 @@ export const tokyoWardsParksData = [
     perCapita: 10.2,
     featuredParks: ['Kinuta Park', 'Komazawa Olympic Park', 'Todoroki Valley'],
     wikiTitle: '砧公園',
-    imageUrl: 'https://www.gotokyo.org/en/spot/707/images/main_450.webp',
+    imageUrl: 'https://static.gltjp.com/glt/data/directory/11000/10118/20230607_122606_60820a00_w1920.webp',
     description:
-      'Setagaya is Tokyo\'s most populous special ward and, to many long-term residents, its most liveable. It\'s a place where tree-lined streets, independent cafés, and excellent parks coexist in easy balance. Kinuta Park is its green centerpiece: a 38-hectare expanse consistently voted among the top picnic spots in the entire city, with a vast open lawn capable of accommodating hundreds of families on a warm weekend afternoon. Komazawa Olympic Park, built for the 1964 Tokyo Games, adds a second major anchor with wide cycling paths, open recreation grounds, and the quiet dignity of a venue that shaped the city\'s modern history. The ward\'s gentle topography and dense street planting give the whole neighborhood a parklike quality even between formal green spaces. Setagaya is where Tokyoites who genuinely value the outdoors tend to choose to live.',
+      'Setagaya is Tokyo\'s most populous special ward and, to many long-term residents, its most liveable. It\'s a place where tree-lined streets, independent cafés, and excellent parks coexist in easy balance. Kinuta Park is its green centerpiece: a 94-acre expanse consistently voted among the top picnic spots in the entire city, with a vast open lawn capable of accommodating hundreds of families on a warm weekend afternoon. Komazawa Olympic Park, built for the 1964 Tokyo Games, adds a second major anchor with wide cycling paths, open recreation grounds, and the quiet dignity of a venue that shaped the city\'s modern history. The ward\'s gentle topography and dense street planting give the whole neighborhood a parklike quality even between formal green spaces. Setagaya is where Tokyoites who genuinely value the outdoors tend to choose to live.',
     lat: 35.6462,
     lng: 139.6530,
   },
@@ -65,7 +65,7 @@ export const tokyoWardsParksData = [
     wikiTitle: '赤塚公園',
     imageUrl: 'https://itabashi-kanko.jp/resource/2/img/20210317160317600280842.jpg',
     description:
-      'Itabashi is a largely residential ward in northwest Tokyo that rewards those willing to explore beyond the city\'s more celebrated districts. Its green centerpiece is Akatsuka Park, a 54-hectare complex spanning multiple themed zones, from wide open meadows to a manicured Japanese garden, all linked by broad pedestrian paths that make the site easy to navigate at any pace. The park is pleasantly quiet on weekdays and joyfully busy at weekends, popular with families who arrive with picnic blankets and a full afternoon to spare. Lower population density compared to central-Tokyo wards means that even in peak season these parks rarely feel crowded. Itabashi is a genuinely underrated ward that long-time Tokyo residents tend to keep to themselves.',
+      'Itabashi is a largely residential ward in northwest Tokyo that rewards those willing to explore beyond the city\'s more celebrated districts. Its green centerpiece is Akatsuka Park, a 133-acre complex spanning multiple themed zones, from wide open meadows to a manicured Japanese garden, all linked by broad pedestrian paths that make the site easy to navigate at any pace. The park is pleasantly quiet on weekdays and joyfully busy at weekends, popular with families who arrive with picnic blankets and a full afternoon to spare. Lower population density compared to central-Tokyo wards means that even in peak season these parks rarely feel crowded. Itabashi is a genuinely underrated ward that long-time Tokyo residents tend to keep to themselves.',
     lat: 35.7509,
     lng: 139.7094,
   },
@@ -78,7 +78,7 @@ export const tokyoWardsParksData = [
     featuredParks: ['Kiba Park', 'Wakasu Seaside Park', 'Tatsumi no Mori'],
     wikiTitle: '木場公園',
     description:
-      'Koto sits on reclaimed land in eastern Tokyo, a ward that pairs an industrial heritage with a surprising number of quality parks. Kiba Park is its standout , a former timber yard transformed into 24 hectares of open lawns, wooded paths, and a distinctive suspension footbridge. Wakasu Seaside Park adds a coastal dimension with sweeping open space along Tokyo Bay.',
+      'Koto sits on reclaimed land in eastern Tokyo, a ward that pairs an industrial heritage with a surprising number of quality parks. Kiba Park is its standout, a former timber yard transformed into 59 acres of open lawns, wooded paths, and a distinctive suspension footbridge. Wakasu Seaside Park adds a coastal dimension with sweeping open space along Tokyo Bay.',
     lat: 35.6730,
     lng: 139.8170,
   },
@@ -104,7 +104,7 @@ export const tokyoWardsParksData = [
     featuredParks: ['Shiba Park', 'Arisugawa-no-miya Memorial Park'],
     wikiTitle: '芝公園',
     description:
-      'Minato is one of Tokyo\'s most prestigious wards, home to embassies, luxury hotels, and some of the city\'s most polished green spaces. Shiba Park, situated in the shadow of Tokyo Tower, is small but beautifully maintained, offering a quiet contrast to the surrounding urban intensity. The ward\'s parks are more manicured than wild , better suited to a leisurely stroll than a full picnic afternoon.',
+      'Minato is one of Tokyo\'s most prestigious wards, home to embassies, luxury hotels, and some of the city\'s most polished green spaces. Shiba Park, situated in the shadow of Tokyo Tower, is small but beautifully maintained, offering a quiet contrast to the surrounding urban intensity. The ward\'s parks are more manicured than wild, better suited to a leisurely stroll than a full picnic afternoon.',
     lat: 35.6581,
     lng: 139.7514,
   },
@@ -117,7 +117,7 @@ export const tokyoWardsParksData = [
     featuredParks: ['Shinjuku Gyoen', 'Shinjuku Chuo Park'],
     wikiTitle: '新宿御苑',
     description:
-      'Shinjuku may be Tokyo\'s most famous entertainment district, but it harbours one of the city\'s greatest parks in Shinjuku Gyoen , a sweeping 58-hectare garden that blends French formal, English landscape, and traditional Japanese garden design. The park is especially popular during cherry blossom season, when its wide lawns fill with families and picnic gatherings. Beyond Gyoen, the ward\'s green options are thin, making it largely a one-park story.',
+      'Shinjuku may be Tokyo\'s most famous entertainment district, but it harbours one of the city\'s greatest parks in Shinjuku Gyoen, a sweeping 143-acre garden that blends French formal, English landscape, and traditional Japanese garden design. The park is especially popular during cherry blossom season, when its wide lawns fill with families and picnic gatherings. Beyond Gyoen, the ward\'s green options are thin, making it largely a one-park story.',
     lat: 35.6938,
     lng: 139.7035,
   },
@@ -130,7 +130,7 @@ export const tokyoWardsParksData = [
     featuredParks: ['Shirako Park', 'Kamishinjo Park'],
     wikiTitle: '白鷺公園',
     description:
-      'Nakano is a dense, energetic ward just west of Shinjuku, compact and vibrant, with green space that reflects its urban constraints. Shirako Park is its most substantial park offering , pleasant for a local stroll but modest compared to the wards that top this ranking. The ward is better explored for its subculture, street food, and covered shopping arcades than its parks.',
+      'Nakano is a dense, energetic ward just west of Shinjuku, compact and vibrant, with green space that reflects its urban constraints. Shirako Park is its most substantial park offering, pleasant for a local stroll but modest compared to the wards that top this ranking. The ward is better explored for its subculture, street food, and covered shopping arcades than its parks.',
     lat: 35.7073,
     lng: 139.6659,
   },
@@ -143,7 +143,7 @@ export const tokyoWardsParksData = [
     featuredParks: ['Yoyogi Park', 'Shoto Park'],
     wikiTitle: '代々木公園',
     description:
-      'Shibuya is defined by its famous crossing, its fashion scene, and the frenetic energy of one of Tokyo\'s most visited commercial districts. Yoyogi Park provides welcome relief , a vast open meadow where on any given weekend you\'ll find picnic groups, live musicians, and amateur performers all coexisting peacefully. For a ward of its international profile, Shibuya punches below average on parks breadth, with Yoyogi carrying almost all the weight.',
+      'Shibuya is defined by its famous crossing, its fashion scene, and the frenetic energy of one of Tokyo\'s most visited commercial districts. Yoyogi Park provides welcome relief, a vast open meadow where on any given weekend you\'ll find picnic groups, live musicians, and amateur performers all coexisting peacefully. For a ward of its international profile, Shibuya punches below average on parks breadth, with Yoyogi carrying almost all the weight.',
     lat: 35.6639,
     lng: 139.6982,
   },
