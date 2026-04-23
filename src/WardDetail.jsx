@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { getCrossRankings } from './utils/rankings';
 
 const PARK_ICON = (
   <svg viewBox="0 0 32 32" fill="none" width="28" height="28">
@@ -13,6 +14,7 @@ export default function WardDetail({ ward, rank, onBack }) {
   const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
   const [zoomed, setZoomed] = useState(false);
+  const cross = getCrossRankings(ward.id);
 
   useEffect(() => {
     if (ward.imageUrl) return;
@@ -112,6 +114,13 @@ export default function WardDetail({ ward, rank, onBack }) {
             </span>
             <span className="text-xs text-gray-400">/ 100</span>
           </div>
+          <div className="mt-1.5 flex flex-col gap-0.5">
+            {[['museums', 'museums'], ['temples', 'temples & shrines'], ['nightlife', 'nightlife']].map(([key, label]) => (
+              <span key={key} className="text-xs italic text-gray-400">
+                {cross[key] ? `#${cross[key]} in ${label}` : `unranked in ${label}`}
+              </span>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -161,6 +170,30 @@ export default function WardDetail({ ward, rank, onBack }) {
             {ward.perCapita}
           </div>
           <div className="text-xs text-gray-500 mt-1">m² per resident</div>
+        </div>
+      </div>
+
+      <div className="mt-6">
+        <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-2">
+          Find hotels in {ward.name}
+        </p>
+        <div className="flex gap-2">
+          {[
+            { label: 'Booking.com',  url: `https://www.booking.com/search.html?ss=${encodeURIComponent(ward.name + ', Tokyo, Japan')}` },
+            { label: 'Expedia',      url: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(ward.name + ', Tokyo')}` },
+            { label: 'Google Hotels', url: `https://www.google.com/travel/hotels/${encodeURIComponent(ward.name + ', Tokyo')}` },
+          ].map(({ label, url }) => (
+            <a
+              key={label}
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 text-center text-xs font-semibold py-2 px-3 rounded-xl border active:opacity-60 transition-opacity"
+              style={{ borderColor: '#1D9E75', color: '#085041', backgroundColor: '#E1F5EE' }}
+            >
+              {label}
+            </a>
+          ))}
         </div>
       </div>
 

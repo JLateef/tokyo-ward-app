@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { getCrossRankings } from './utils/rankings';
 
 const NIGHTLIFE_ICON = (
   <svg viewBox="0 0 32 32" fill="none" width="26" height="26">
@@ -18,6 +19,7 @@ export default function NightlifeWardDetail({ ward, rank, onBack }) {
   const [imageUrl, setImageUrl] = useState(ward.imageUrl ?? null);
   const [imgFailed, setImgFailed] = useState(false);
   const [zoomed, setZoomed] = useState(false);
+  const cross = getCrossRankings(ward.id);
 
   useEffect(() => {
     if (ward.imageUrl) return;
@@ -112,6 +114,13 @@ export default function NightlifeWardDetail({ ward, rank, onBack }) {
             </span>
             <span className="text-xs text-gray-400">/ 100</span>
           </div>
+          <div className="mt-1.5 flex flex-col gap-0.5">
+            {[['parks', 'parks'], ['museums', 'museums'], ['temples', 'temples & shrines']].map(([key, label]) => (
+              <span key={key} className="text-xs italic text-gray-400">
+                {cross[key] ? `#${cross[key]} in ${label}` : `unranked in ${label}`}
+              </span>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -158,6 +167,30 @@ export default function NightlifeWardDetail({ ward, rank, onBack }) {
             {ward.nightclubs}
           </div>
           <div className="text-xs text-gray-500 mt-1">nightclubs</div>
+        </div>
+      </div>
+
+      <div className="mt-6">
+        <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-2">
+          Find hotels in {ward.name}
+        </p>
+        <div className="flex gap-2">
+          {[
+            { label: 'Booking.com',  url: `https://www.booking.com/search.html?ss=${encodeURIComponent(ward.name + ', Tokyo, Japan')}` },
+            { label: 'Expedia',      url: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(ward.name + ', Tokyo')}` },
+            { label: 'Google Hotels', url: `https://www.google.com/travel/hotels/${encodeURIComponent(ward.name + ', Tokyo')}` },
+          ].map(({ label, url }) => (
+            <a
+              key={label}
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 text-center text-xs font-semibold py-2 px-3 rounded-xl border active:opacity-60 transition-opacity"
+              style={{ borderColor: PRIMARY, color: DARK, backgroundColor: LIGHT }}
+            >
+              {label}
+            </a>
+          ))}
         </div>
       </div>
 
